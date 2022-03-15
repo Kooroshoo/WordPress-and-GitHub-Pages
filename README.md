@@ -1,2 +1,2 @@
 # WordPress-and-GitHub-Pages
-Static website created with wordpress
+Static website generated with wordpress
